@@ -3,8 +3,8 @@ import sys
 
 print('ROCK, PAPER, SCISSORS')
 
-moves: dict = {'rock': "🪨", 'paper': "📜", 'scissors': "✂️"}
-moves_list = list(moves.keys())
+moves: dict[str,str] = {'rock': "🪨", 'paper': "📜", 'scissors': "✂️"}
+moves_list: list[str] = list(moves.keys())
 
 while True:
     print()
@@ -16,11 +16,11 @@ while True:
         print('Invalid move. Try again.')
         continue
 
-    computer_move = random.choice(moves_list)
+    computer_move: str = random.choice(moves_list)
 
     print(f'You played {moves[player_move]}, computer played {moves[computer_move]}.')
 
-    result = (moves_list.index(player_move) - moves_list.index(computer_move)) % 3
+    result: int = (moves_list.index(player_move) - moves_list.index(computer_move)) % 3
 
     if result == 0:
         print('It\'s a tie!')
