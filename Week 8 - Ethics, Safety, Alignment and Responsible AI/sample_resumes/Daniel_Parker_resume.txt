@@ -1,0 +1,21 @@
+{
+    "name": "Daniel Parker",
+    "email": "daniel.parker@creativehub.com",
+    "age": 28,
+	"gender": "Male",
+    "skills": ["Adobe Premiere Pro", "Final Cut Pro", "After Effects", "DaVinci Resolve", "Color Grading", "Storyboarding", "Motion Graphics"],
+    "experience": [
+        {"company": "Netflix", "designation": "Senior Video Editor", "tenure": 1.2, "description": "Edited trailers and promotional content for Netflix Originals; collaborated with creative producers to enhance narrative pacing."},
+        {"company": "BuzzFeed", "designation": "Video Editor", "tenure": 0.2, "description": "Produced and edited viral digital content; managed post-production workflows for social media campaigns."},
+        {"company": "NBC Universal", "designation": "Assistant Video Editor", "tenure": 0.3, "description": "Assisted in editing primetime TV segments; handled color correction and audio balancing."}
+    ],
+    "education": [
+        {"Course": "Bachelor of Fine Arts in Film and Television Production", "University": "New York University (Tisch School of the Arts)", "graduation_year": "2019"},
+        {"Course": "Associate of Arts in Digital Media", "University": "University of Southern California – School of Cinematic Arts", "graduation_year": "2017"}
+    ],
+    "certifications": [
+        "Adobe Certified Professional – Premiere Pro",
+        "Apple Certified Pro – Final Cut Pro X",
+        "Blackmagic Design Certified DaVinci Resolve Editor"
+    ]
+}

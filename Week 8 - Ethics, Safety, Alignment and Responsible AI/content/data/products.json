@@ -1,0 +1,122 @@
+[
+  {
+    "product_id": "PROD-1001",
+    "sku": "SKU-487392",
+    "name": "Premium Smartphone",
+    "category": "Electronics",
+    "subcategory": "Mobile Devices",
+    "description": "Latest flagship smartphone with 5G capability, triple camera system, and all-day battery life",
+    "price": 999.99,
+    "discount_percentage": 10,
+    "stock_quantity": 150,
+    "warehouse_location": "Warehouse-A",
+    "manufacturer": "TechGiant Corp",
+    "specifications": {
+      "weight": "0.4 lbs",
+      "dimensions": "6.1 x 3.0 x 0.3 inches",
+      "color": "Space Gray",
+      "material": "Aluminum and Glass",
+      "display": "6.7 inch OLED",
+      "storage": "256GB",
+      "ram": "8GB",
+      "battery": "4500mAh"
+    },
+    "rating": 4.5,
+    "review_count": 3482
+  },
+  {
+    "product_id": "PROD-1002",
+    "sku": "SKU-294851",
+    "name": "Wireless Noise-Canceling Headphones",
+    "category": "Electronics",
+    "subcategory": "Audio",
+    "description": "Premium over-ear headphones with active noise cancellation and 30-hour battery life",
+    "price": 349.99,
+    "discount_percentage": 15,
+    "stock_quantity": 89,
+    "warehouse_location": "Warehouse-B",
+    "manufacturer": "AudioPro Industries",
+    "specifications": {
+      "weight": "0.55 lbs",
+      "dimensions": "7.5 x 6.7 x 3.0 inches",
+      "color": "Black",
+      "material": "Plastic and Leather",
+      "battery_life": "30 hours",
+      "connectivity": "Bluetooth 5.0"
+    },
+    "rating": 4.7,
+    "review_count": 1256
+  },
+  {
+    "product_id": "PROD-1003",
+    "sku": "SKU-573926",
+    "name": "Ultra-Thin Laptop",
+    "category": "Electronics",
+    "subcategory": "Computers",
+    "description": "Lightweight laptop with Intel Core i7, 16GB RAM, perfect for professionals on the go",
+    "price": 1299.99,
+    "discount_percentage": 5,
+    "stock_quantity": 45,
+    "warehouse_location": "Warehouse-A",
+    "manufacturer": "CompuTech Solutions",
+    "specifications": {
+      "weight": "2.8 lbs",
+      "dimensions": "12.6 x 8.5 x 0.6 inches",
+      "color": "Silver",
+      "material": "Aluminum",
+      "processor": "Intel Core i7",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "display": "13.3 inch 4K"
+    },
+    "rating": 4.3,
+    "review_count": 892
+  },
+  {
+    "product_id": "PROD-1004",
+    "sku": "SKU-837264",
+    "name": "Smart Watch Pro",
+    "category": "Electronics",
+    "subcategory": "Wearables",
+    "description": "Advanced fitness tracker with heart rate monitor, GPS, and water resistance",
+    "price": 399.99,
+    "discount_percentage": 20,
+    "stock_quantity": 200,
+    "warehouse_location": "Warehouse-C",
+    "manufacturer": "FitTech Inc",
+    "specifications": {
+      "weight": "0.1 lbs",
+      "dimensions": "1.7 x 1.4 x 0.4 inches",
+      "color": "Rose Gold",
+      "material": "Aluminum and Silicone",
+      "display": "1.4 inch AMOLED",
+      "battery_life": "5 days",
+      "water_resistance": "50m"
+    },
+    "rating": 4.6,
+    "review_count": 2103
+  },
+  {
+    "product_id": "PROD-1005",
+    "sku": "SKU-192847",
+    "name": "Premium Coffee Maker",
+    "category": "Home & Garden",
+    "subcategory": "Kitchen Appliances",
+    "description": "Automatic espresso machine with built-in grinder and milk frother",
+    "price": 799.99,
+    "discount_percentage": 25,
+    "stock_quantity": 32,
+    "warehouse_location": "Warehouse-B",
+    "manufacturer": "BrewMaster Co",
+    "specifications": {
+      "weight": "19.8 lbs",
+      "dimensions": "13.5 x 17 x 14 inches",
+      "color": "Stainless Steel",
+      "material": "Stainless Steel and Plastic",
+      "capacity": "1.8L water tank",
+      "features": "15 bar pressure, touchscreen"
+    },
+    "rating": 4.4,
+    "review_count": 567
+  }
+]

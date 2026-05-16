@@ -1,0 +1,218 @@
+[
+  {
+    "payment_id": "PAY-487291",
+    "transaction_id": "TXN-A8F92D4E6B1C",
+    "order_id": "ORD-10001",
+    "customer_id": "CUST-2001",
+    "payment_method": "credit_card",
+    "card_details": {
+      "card_type": "Visa",
+      "card_last_four": "4567",
+      "card_number_full": "4532015112830366",
+      "card_number_masked": "************0366",
+      "cvv": "123",
+      "expiry": "08/2026",
+      "cardholder_name": "John Smith"
+    },
+    "billing_address": {
+      "street": "123 Main Street",
+      "city": "New York",
+      "state": "NY",
+      "zip_code": "10001",
+      "country": "USA"
+    },
+    "amount": 1302.26,
+    "currency": "USD",
+    "status": "completed",
+    "payment_date": "2024-01-25T14:31:00",
+    "processing_fee": 38.07,
+    "net_amount": 1264.19,
+    "fraud_check": {
+      "status": "passed",
+      "risk_score": 12
+    },
+    "bank_reference": "BANK-7849213",
+    "authorization_code": "AUTH892"
+  },
+  {
+    "payment_id": "PAY-932847",
+    "transaction_id": "TXN-C3D87F92A5E1",
+    "order_id": "ORD-10002",
+    "customer_id": "CUST-2002",
+    "payment_method": "credit_card",
+    "card_details": {
+      "card_type": "Mastercard",
+      "card_last_four": "8901",
+      "card_number_full": "5425233430109903",
+      "card_number_masked": "************9903",
+      "cvv": "456",
+      "expiry": "03/2025",
+      "cardholder_name": "Emma Johnson"
+    },
+    "billing_address": {
+      "street": "789 Oak Lane",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip_code": "90001",
+      "country": "USA"
+    },
+    "amount": 1343.05,
+    "currency": "USD",
+    "status": "completed",
+    "payment_date": "2024-01-20T10:16:00",
+    "processing_fee": 39.25,
+    "net_amount": 1303.80,
+    "fraud_check": {
+      "status": "passed",
+      "risk_score": 8
+    },
+    "bank_reference": "BANK-3928471",
+    "authorization_code": "AUTH234"
+  },
+  {
+    "payment_id": "PAY-573819",
+    "transaction_id": "TXN-B7A49C82F6D3",
+    "order_id": "ORD-10003",
+    "customer_id": "CUST-2003",
+    "payment_method": "credit_card",
+    "card_details": {
+      "card_type": "Amex",
+      "card_last_four": "1005",
+      "card_number_full": "371449635398431",
+      "card_number_masked": "***********8431",
+      "cvv": "7890",
+      "expiry": "12/2027",
+      "cardholder_name": "Michael Williams"
+    },
+    "billing_address": {
+      "street": "321 Elm Street",
+      "city": "Chicago",
+      "state": "IL",
+      "zip_code": "60601",
+      "country": "USA"
+    },
+    "amount": 705.97,
+    "currency": "USD",
+    "status": "completed",
+    "payment_date": "2024-01-18T16:46:00",
+    "processing_fee": 20.77,
+    "net_amount": 685.20,
+    "fraud_check": {
+      "status": "passed",
+      "risk_score": 5
+    },
+    "bank_reference": "BANK-6182934",
+    "authorization_code": "AUTH567"
+  },
+  {
+    "payment_id": "PAY-284916",
+    "transaction_id": "TXN-E5F92A73C8B1",
+    "order_id": "ORD-10004",
+    "customer_id": "CUST-2004",
+    "payment_method": "credit_card",
+    "card_details": {
+      "card_type": "Visa",
+      "card_last_four": "2345",
+      "card_number_full": "4916338506082832",
+      "card_number_masked": "************2832",
+      "cvv": "321",
+      "expiry": "05/2028",
+      "cardholder_name": "Sarah Davis"
+    },
+    "billing_address": {
+      "street": "567 Park Avenue",
+      "city": "Houston",
+      "state": "TX",
+      "zip_code": "77001",
+      "country": "USA"
+    },
+    "amount": 668.48,
+    "currency": "USD",
+    "status": "completed",
+    "payment_date": "2024-01-22T09:31:00",
+    "processing_fee": 19.69,
+    "net_amount": 648.79,
+    "fraud_check": {
+      "status": "passed",
+      "risk_score": 15
+    },
+    "bank_reference": "BANK-9473821",
+    "authorization_code": "AUTH890"
+  },
+  {
+    "payment_id": "PAY-618392",
+    "transaction_id": "TXN-D2C85F91A7B4",
+    "order_id": "ORD-10005",
+    "customer_id": "CUST-2001",
+    "payment_method": "credit_card",
+    "card_details": {
+      "card_type": "Discover",
+      "card_last_four": "9876",
+      "card_number_full": "6011111111111117",
+      "card_number_masked": "************1117",
+      "cvv": "654",
+      "expiry": "11/2025",
+      "cardholder_name": "John Smith"
+    },
+    "billing_address": {
+      "street": "123 Main Street",
+      "city": "New York",
+      "state": "NY",
+      "zip_code": "10001",
+      "country": "USA"
+    },
+    "amount": 671.51,
+    "currency": "USD",
+    "status": "completed",
+    "payment_date": "2024-01-15T13:21:00",
+    "processing_fee": 19.77,
+    "net_amount": 651.74,
+    "fraud_check": {
+      "status": "passed",
+      "risk_score": 10
+    },
+    "bank_reference": "BANK-5739281",
+    "authorization_code": "AUTH123"
+  },
+  {
+    "payment_id": "PAY-927364",
+    "transaction_id": "TXN-F8B93C71A5D2",
+    "order_id": "ORD-10006",
+    "customer_id": "CUST-2005",
+    "payment_method": "credit_card",
+    "card_details": {
+      "card_type": "Visa",
+      "card_last_four": "5432",
+      "card_number_full": "4539578763621486",
+      "card_number_masked": "************1486",
+      "cvv": "987",
+      "expiry": "09/2024",
+      "cardholder_name": "Robert Brown"
+    },
+    "billing_address": {
+      "street": "890 Madison Street",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zip_code": "85001",
+      "country": "USA"
+    },
+    "amount": 991.73,
+    "currency": "USD",
+    "status": "refunded",
+    "payment_date": "2023-07-10T11:01:00",
+    "processing_fee": 29.06,
+    "net_amount": 962.67,
+    "fraud_check": {
+      "status": "review",
+      "risk_score": 45
+    },
+    "bank_reference": "BANK-8264918",
+    "authorization_code": "AUTH456",
+    "refund_details": {
+      "refund_id": "REF-182734",
+      "refund_date": "2023-07-11T09:00:00",
+      "refund_amount": 991.73,
+      "refund_reason": "Customer cancelled order"
+    }
+  }
+]

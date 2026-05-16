@@ -1,0 +1,17 @@
+{
+    "name": "Emily Johnson",
+    "email": "emily.johnson@outlook.com",
+    "age": 29,
+	"gender": "Female",
+    "skills": ["Python", "Machine Learning", "TensorFlow", "Data Visualization", "SQL"],
+    "experience": [
+        {"company": "Google", "designation": "Senior Machine Learning Engineer", "tenure": 3.5, "description": "Developed ML models for YouTube recommendation systems and optimized model latency by 15%."},
+        {"company": "Meta", "designation": "Machine Learning Engineer", "tenure": 2, "description": "Worked on deep learning models for user engagement prediction."},
+        {"company": "Airbnb", "designation": "Data Scientist", "tenure": 1.5, "description": "Built predictive models for demand forecasting and dynamic pricing."}
+    ],
+    "education": [
+        {"Course": "Master of Science in Computer Science", "University": "Stanford University", "graduation_year": "2018"},
+        {"Course": "Bachelor of Science in Computer Science", "University": "University of California, Berkeley", "graduation_year": "2016"}
+    ],
+    "certifications": ["TensorFlow Developer Certificate", "AWS Certified Machine Learning – Specialty"]
+}

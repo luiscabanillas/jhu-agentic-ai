@@ -1,0 +1,17 @@
+{
+    "name": "Sarah Kim",
+    "email": "sarah.kim@protonmail.com",
+    "age": 26,
+	"gender": "Female",
+    "skills": ["Business Analytics", "Power BI", "SQL", "Python", "Data Storytelling", "Excel"],
+    "experience": [
+        {"company": "Microsoft", "designation": "Business Data Analyst", "tenure": 3, "description": "Provided analytical insights for Microsoft 365 adoption and product growth strategies."},
+        {"company": "Deloitte", "designation": "Data Analyst", "tenure": 2, "description": "Worked on data-driven business process optimization and financial performance analysis."},
+        {"company": "Intel", "designation": "Data Analyst Intern", "tenure": 0.5, "description": "Assisted in KPI reporting and automated data dashboards for manufacturing units."}
+    ],
+    "education": [
+        {"Course": "Master of Science in Business Analytics", "University": "New York University (NYU) – Stern School of Business", "graduation_year": "2021"},
+        {"Course": "Bachelor of Science in Economics", "University": "University of Michigan, Ann Arbor", "graduation_year": "2019"}
+    ],
+    "certifications": ["Microsoft Certified: Data Analyst Associate", "Tableau Desktop Specialist"]
+}

@@ -1,0 +1,224 @@
+[
+  {
+    "order_id": "ORD-10001",
+    "customer_id": "CUST-2001",
+    "order_date": "2024-01-25T14:30:00",
+    "items": [
+      {
+        "product_id": "PROD-1001",
+        "product_name": "Premium Smartphone",
+        "quantity": 1,
+        "unit_price": 999.99,
+        "discount_percentage": 10,
+        "final_price": 899.99,
+        "total": 899.99
+      },
+      {
+        "product_id": "PROD-1002",
+        "product_name": "Wireless Noise-Canceling Headphones",
+        "quantity": 1,
+        "unit_price": 349.99,
+        "discount_percentage": 15,
+        "final_price": 297.49,
+        "total": 297.49
+      }
+    ],
+    "subtotal": 1197.48,
+    "tax_amount": 104.78,
+    "shipping_cost": 0.00,
+    "total_amount": 1302.26,
+    "shipping_address": {
+      "street": "123 Main Street",
+      "city": "New York",
+      "state": "NY",
+      "zip_code": "10001",
+      "country": "USA"
+    },
+    "shipping_method": "express",
+    "tracking_number": "TRACK-789456123",
+    "carrier": "FedEx",
+    "status": "shipped",
+    "estimated_delivery": "2024-01-28T17:00:00",
+    "actual_delivery": null,
+    "notes": "Leave at front door"
+  },
+  {
+    "order_id": "ORD-10002",
+    "customer_id": "CUST-2002",
+    "order_date": "2024-01-20T10:15:00",
+    "items": [
+      {
+        "product_id": "PROD-1003",
+        "product_name": "Ultra-Thin Laptop",
+        "quantity": 1,
+        "unit_price": 1299.99,
+        "discount_percentage": 5,
+        "final_price": 1234.99,
+        "total": 1234.99
+      }
+    ],
+    "subtotal": 1234.99,
+    "tax_amount": 108.06,
+    "shipping_cost": 0.00,
+    "total_amount": 1343.05,
+    "shipping_address": {
+      "street": "789 Oak Lane",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip_code": "90001",
+      "country": "USA"
+    },
+    "shipping_method": "standard",
+    "tracking_number": "TRACK-456789012",
+    "carrier": "UPS",
+    "status": "delivered",
+    "estimated_delivery": "2024-01-25T17:00:00",
+    "actual_delivery": "2024-01-24T15:30:00",
+    "notes": null
+  },
+  {
+    "order_id": "ORD-10003",
+    "customer_id": "CUST-2003",
+    "order_date": "2024-01-18T16:45:00",
+    "items": [
+      {
+        "product_id": "PROD-1004",
+        "product_name": "Smart Watch Pro",
+        "quantity": 2,
+        "unit_price": 399.99,
+        "discount_percentage": 20,
+        "final_price": 319.99,
+        "total": 639.98
+      }
+    ],
+    "subtotal": 639.98,
+    "tax_amount": 56.00,
+    "shipping_cost": 9.99,
+    "total_amount": 705.97,
+    "shipping_address": {
+      "street": "321 Elm Street",
+      "city": "Chicago",
+      "state": "IL",
+      "zip_code": "60601",
+      "country": "USA"
+    },
+    "shipping_method": "overnight",
+    "tracking_number": "TRACK-321654987",
+    "carrier": "FedEx",
+    "status": "delivered",
+    "estimated_delivery": "2024-01-19T12:00:00",
+    "actual_delivery": "2024-01-19T10:45:00",
+    "notes": "Ring doorbell"
+  },
+  {
+    "order_id": "ORD-10004",
+    "customer_id": "CUST-2004",
+    "order_date": "2024-01-22T09:30:00",
+    "items": [
+      {
+        "product_id": "PROD-1005",
+        "product_name": "Premium Coffee Maker",
+        "quantity": 1,
+        "unit_price": 799.99,
+        "discount_percentage": 25,
+        "final_price": 599.99,
+        "total": 599.99
+      }
+    ],
+    "subtotal": 599.99,
+    "tax_amount": 52.50,
+    "shipping_cost": 15.99,
+    "total_amount": 668.48,
+    "shipping_address": {
+      "street": "567 Park Avenue",
+      "city": "Houston",
+      "state": "TX",
+      "zip_code": "77001",
+      "country": "USA"
+    },
+    "shipping_method": "standard",
+    "tracking_number": "TRACK-147852369",
+    "carrier": "USPS",
+    "status": "processing",
+    "estimated_delivery": "2024-01-29T17:00:00",
+    "actual_delivery": null,
+    "notes": "Fragile item - handle with care"
+  },
+  {
+    "order_id": "ORD-10005",
+    "customer_id": "CUST-2001",
+    "order_date": "2024-01-15T13:20:00",
+    "items": [
+      {
+        "product_id": "PROD-1002",
+        "product_name": "Wireless Noise-Canceling Headphones",
+        "quantity": 1,
+        "unit_price": 349.99,
+        "discount_percentage": 15,
+        "final_price": 297.49,
+        "total": 297.49
+      },
+      {
+        "product_id": "PROD-1004",
+        "product_name": "Smart Watch Pro",
+        "quantity": 1,
+        "unit_price": 399.99,
+        "discount_percentage": 20,
+        "final_price": 319.99,
+        "total": 319.99
+      }
+    ],
+    "subtotal": 617.48,
+    "tax_amount": 54.03,
+    "shipping_cost": 0.00,
+    "total_amount": 671.51,
+    "shipping_address": {
+      "street": "123 Main Street",
+      "city": "New York",
+      "state": "NY",
+      "zip_code": "10001",
+      "country": "USA"
+    },
+    "shipping_method": "express",
+    "tracking_number": "TRACK-963852741",
+    "carrier": "DHL",
+    "status": "delivered",
+    "estimated_delivery": "2024-01-18T17:00:00",
+    "actual_delivery": "2024-01-17T14:20:00",
+    "notes": null
+  },
+  {
+    "order_id": "ORD-10006",
+    "customer_id": "CUST-2005",
+    "order_date": "2023-07-10T11:00:00",
+    "items": [
+      {
+        "product_id": "PROD-1001",
+        "product_name": "Premium Smartphone",
+        "quantity": 1,
+        "unit_price": 999.99,
+        "discount_percentage": 10,
+        "final_price": 899.99,
+        "total": 899.99
+      }
+    ],
+    "subtotal": 899.99,
+    "tax_amount": 78.75,
+    "shipping_cost": 12.99,
+    "total_amount": 991.73,
+    "shipping_address": {
+      "street": "890 Madison Street",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zip_code": "85001",
+      "country": "USA"
+    },
+    "shipping_method": "standard",
+    "tracking_number": "TRACK-753159486",
+    "carrier": "UPS",
+    "status": "cancelled",
+    "estimated_delivery": "2023-07-15T17:00:00",
+    "actual_delivery": null,
+    "notes": "Customer cancelled order"
+  }
+]

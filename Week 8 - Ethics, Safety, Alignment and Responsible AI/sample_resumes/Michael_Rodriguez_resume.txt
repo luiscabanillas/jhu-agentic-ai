@@ -1,0 +1,17 @@
+{
+    "name": "Michael Rodriguez",
+    "email": "michael.rodriguez@gmail.com",
+    "age": 31,
+	"gender" : "Male",
+    "skills": ["Data Engineering", "PySpark", "AWS", "ETL Pipelines", "SQL", "Airflow"],
+    "experience": [
+        {"company": "Netflix", "designation": "Lead Data Engineer", "tenure": 4, "description": "Led data infrastructure optimization for content analytics platform, improving data ingestion speed by 40%."},
+        {"company": "Spotify", "designation": "Data Engineer", "tenure": 2.5, "description": "Designed scalable data pipelines using Spark and AWS Redshift."},
+        {"company": "IBM", "designation": "Data Analyst", "tenure": 1.5, "description": "Developed dashboards and performed ETL for enterprise data management solutions."}
+    ],
+    "education": [
+        {"Course": "Master of Science in Information Systems", "University": "Carnegie Mellon University", "graduation_year": "2017"},
+        {"Course": "Bachelor of Science in Computer Engineering", "University": "Georgia Institute of Technology", "graduation_year": "2015"}
+    ],
+    "certifications": ["AWS Certified Data Analytics – Specialty", "Google Cloud Professional Data Engineer"]
+}
