@@ -1,0 +1,14 @@
+# Secrets — API keys and tokens live in per-week config.json (kept local)
+config.json
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python environments
+.venv/
+.venv-1/
+__pycache__/
+*.pyc
