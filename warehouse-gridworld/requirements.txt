@@ -1,0 +1,6 @@
+gradio>=4.44.0
+# gradio 4.x imports HfFolder, which huggingface_hub>=1.0 removed; keep below 1.0
+huggingface_hub<1.0
+gymnasium>=0.29.1
+numpy>=1.24.0
+matplotlib>=3.7.0
